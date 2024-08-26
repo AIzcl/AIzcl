@@ -42,7 +42,10 @@
 * 我希望自己学完软件工程这门课后，能够明白软件开发的整个流程，并有清晰的认知理解，提高自己的开发效率。
 #GitHub
 * GitHub主页地址：[https://github.com/AIzcl](https://github.com/AIzcl)
-* 同名仓库地址：[]()
+* 同名仓库地址：[https://github.com/AIzcl/AIzcl](https://github.com/AIzcl/AIzcl)
+![](https://img2024.cnblogs.com/blog/3509282/202408/3509282-20240826185510727-535262399.png)
+
+![](https://img2024.cnblogs.com/blog/3509282/202408/3509282-20240826185519426-1014340175.png)
 
 #附录
 * 后台博文编辑界面
