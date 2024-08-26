@@ -1,11 +1,8 @@
 
-| 这个作业属于哪个课程 | <[广工计院计科34班软工](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34)> |
-
-| ----------------- |--------------- |
-
-| 这个作业要求在哪里| <[作业要求](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228)> |
-
-| 这个作业的目标 | <学会创建并使用自己的博客和Github，熟悉其中的基本操作和功能，用Markdown编写完成自我介绍以及软工5问> |
+|这个作业属于哪个课程|[广工计院计科34班软工](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34)|
+| ---- | ---- |
+|这个作业要求在哪里|[作业要求](https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228)|
+|这个作业的目标|学会创建并使用自己的博客和Github，熟悉其中的基本操作和功能，用Markdown编写完成自我介绍以及软工5问|
 
 
 #前言
